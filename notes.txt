@@ -1,0 +1,3 @@
+
+For duplicate code detection:
+http://pmd.sourceforge.net/pmd-4.3.0/cpd.html
